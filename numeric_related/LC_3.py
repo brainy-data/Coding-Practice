@@ -48,7 +48,7 @@ solution=Solution()
 output=solution.findRepeatNumber(nums)
 print(output)
 
-#Method 2 - Double for loop method, 
+#Method 3 - Double for loop method, 
 #strightforward but almost the most inefficient method 
 #exceed time limits in coding test
 class Solution(object):
