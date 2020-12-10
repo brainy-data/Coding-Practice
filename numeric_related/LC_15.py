@@ -20,7 +20,8 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
-        #convert into binary number and count number of '1's
+        #convert into binary number (string) and count number of '1's
+        #if want to count '0's, need to minus 1 since binary conversion will have '0b' at the beginning of the string
         return  bin(n).count("1") 
 
 #Testing part
