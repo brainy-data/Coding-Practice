@@ -15,7 +15,7 @@ Created on Fri Dec 11 12:45:24 2020
 #Output:5
 
 #答案需要取模 1e9+7（1000000007），如计算初始结果为：1000000008，请返回 1。
-#return the answer of reminder when the reuslt is divided by 1000000007
+#return the answer of remainder when the reuslt is divided by 1000000007
  
 
 n=5
