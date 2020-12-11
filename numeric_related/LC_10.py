@@ -6,9 +6,9 @@ Created on Fri Dec 11 12:45:24 2020
 """
 
 #剑指 Offer 10- I. 斐波那契数列
-#JZoffer 10. return the nth number from Fibonacci sequence
+#JZoffer 10. return the (n+1)th number from Fibonacci sequence
 #Example
-#Fibonacci sequence:[0,1,1,2,3,...]
+#Fibonacci sequence:[0,1,1,2,3,5,...]
 #Input: 2
 #Output: 1
 #Input: 5
