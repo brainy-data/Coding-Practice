@@ -1,6 +1,6 @@
-# 剑指 Offer 62 - 丑数
-# JZoffer 62. return the "n"th product of 2,3 or 5 in ascending order
-#E xample
+# 剑指 Offer 49 - 丑数
+# JZoffer 49. return the "n"th product of 2,3 or 5 in ascending order
+# Example
 # n = 10
 # Output: 12
 # Demo: 1, 2, 3, 4, 5, 6, 8, 9, 10, 12 
